@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/RakshithNanduri/RakshithNanduri/main/assets/sakura-petals.svg" alt="Animated falling cherry blossom petals" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=F5A5D7&center=true&vCenter=true&repeat=true&width=780&height=46&lines=under+the+moon%2C+building+the+next+thing...;%E2%9C%A6+Python+%7C+C+%7C+Streamlit+%7C+Ollama+%7C+Git+%E2%9C%A6;first-year+CSE+student+%E2%80%94+learning+in+public" alt="Animated profile introduction" />
 </p>
 
