@@ -12,7 +12,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/✦_Focus-Computer%20Science-1d2a52?style=for-the-badge&labelColor=131936&color=596cff" alt="Computer Science focus" />
-  <img src="https://img.shields.io/badge/🌸_Currently_Building-ASTRA-1d2a52?style=for-the-badge&labelColor=131936&color=ca6dba" alt="Currently building ASTRA" />
+  <img src="https://img.shields.io/badge/🌸_AI--Assisted_Experiment-ASTRA-1d2a52?style=for-the-badge&labelColor=131936&color=ca6dba" alt="AI-assisted ASTRA experiment" />
   <img src="https://img.shields.io/badge/☾_Direction-AI%20Engineering-1d2a52?style=for-the-badge&labelColor=131936&color=6aa6ff" alt="AI engineering direction" />
 </p>
 
@@ -22,18 +22,27 @@
 
 > **Rakshith Nanduri** — first-year Computer Science student from India, building steadily toward AI engineering.
 
-I turn unfamiliar concepts into working projects: safe Python utilities, local-AI applications with Streamlit and Ollama, and C programs that sharpen my foundation in logic, data handling, and problem solving.
+I learn by turning unfamiliar concepts into working projects: Python utilities, local-AI applications with Streamlit and Ollama, and C programs that strengthen my foundation in logic, data handling and problem solving.
 
 <p align="center"><i>Small commits. Real projects. A little more clarity every day.</i></p>
 
-## ✦ The constellation
+## ✦ Projects I've built
 
 | Project | What it explores | Status |
 |:--|:--|:--|
-| [CleanDesk](https://github.com/RakshithNanduri/CleanDesk) | Preview-first file automation in Python | ✦ Complete |
-| [Project ATLAS](https://github.com/RakshithNanduri/project-atlas) | Reading and explaining Python codebases with local AI | ✦ Complete |
-| [AI Study Companion](https://github.com/RakshithNanduri/First-Ai-study-app) | Local study support with Streamlit and Ollama | ✦ Complete |
-| [ASTRA](https://github.com/RakshithNanduri/Project-Astra) | Local-first companion architecture for Windows | 🌸 In progress |
+| [Project ATLAS](https://github.com/RakshithNanduri/project-atlas) | Reading and explaining unfamiliar Python codebases with Streamlit and local AI | ✦ Complete |
+| [CleanDesk](https://github.com/RakshithNanduri/CleanDesk) | Preview-first file automation and safe filesystem operations in Python | ✦ Complete |
+| [AI Study Companion](https://github.com/RakshithNanduri/First-Ai-study-app) | Local study support with Streamlit, Ollama, files and chat history | ✦ Complete |
+| [DataAnalyzer-CLI](https://github.com/RakshithNanduri/DataAnalyzer-CLI) | C fundamentals, dynamic memory, searching, sorting and dataset statistics | ✦ Complete |
+| [StockLite](https://github.com/RakshithNanduri/c-inventory-management-system) | C structures, CRUD workflows and file persistence | ✦ Complete |
+
+## 🌙 AI-assisted experiment
+
+### [ASTRA](https://github.com/RakshithNanduri/Project-Astra)
+
+ASTRA is an experimental Windows AI companion whose implementation is being developed heavily with AI assistance. My role is centered on defining the product vision, behavior, safety requirements, testing direction and integration goals while learning from the generated architecture and code.
+
+I keep ASTRA separate from the projects above so that my personal coding work and my AI-assisted development work are represented clearly.
 
 <p align="center">
   <a href="https://github.com/RakshithNanduri?tab=repositories">
