@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-label="Animated falling cherry blossom petals">
+  <defs>
+    <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffe5f5"/>
+      <stop offset="0.55" stop-color="#f7a7d3"/>
+      <stop offset="1" stop-color="#bd5f9f"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="url(#petal)" filter="url(#glow)">
+    <path d="M0,-10 C10,-24 25,-17 22,-3 C19,10 4,16 -7,7 C-13,2 -9,-5 0,-10Z">
+      <animateTransform attributeName="transform" type="translate" values="80,-20;150,170" dur="7.2s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;310" dur="3.8s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <path d="M0,-9 C9,-21 23,-15 20,-2 C17,10 3,14 -7,6 C-12,1 -8,-4 0,-9Z">
+      <animateTransform attributeName="transform" type="translate" values="250,-30;190,170" dur="8.3s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="30;390" dur="4.5s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <path d="M0,-11 C10,-24 26,-16 22,-2 C18,11 2,16 -8,6 C-13,1 -9,-6 0,-11Z">
+      <animateTransform attributeName="transform" type="translate" values="430,-15;520,170" dur="6.7s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-360" dur="3.7s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <path d="M0,-9 C9,-21 23,-15 20,-2 C17,10 3,14 -7,6 C-12,1 -8,-4 0,-9Z">
+      <animateTransform attributeName="transform" type="translate" values="640,-35;585,170" dur="8.8s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="10;370" dur="4.8s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <path d="M0,-10 C10,-24 25,-17 22,-3 C19,10 4,16 -7,7 C-13,2 -9,-5 0,-10Z">
+      <animateTransform attributeName="transform" type="translate" values="805,-20;900,170" dur="7.5s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="0;-420" dur="3.9s" repeatCount="indefinite" additive="sum"/>
+    </path>
+    <path d="M0,-11 C10,-24 26,-16 22,-2 C18,11 2,16 -8,6 C-13,1 -9,-6 0,-11Z">
+      <animateTransform attributeName="transform" type="translate" values="1040,-40;980,170" dur="9.1s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" values="20;400" dur="5.1s" repeatCount="indefinite" additive="sum"/>
+    </path>
+  </g>
+</svg>
