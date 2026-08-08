@@ -1,50 +1,56 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=230&section=header&text=Rakshith%20Nanduri&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=First-Year%20CSE%20Student%20%7C%20Building%20Python%20%26%20Local%20AI%20Applications&descAlignY=58&descSize=16" alt="Rakshith Nanduri header" />
+  <img src="https://raw.githubusercontent.com/RakshithNanduri/RakshithNanduri/main/assets/exec-ec836f0f-7389-4555-a647-ef202e547dbb.png" alt="Moonlit cherry-blossom scene: a student building beneath a full moon" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=820&height=48&lines=Learning+computer+science+by+building;Python+%7C+C+%7C+Streamlit+%7C+Ollama+%7C+Git;Local+AI+apps+and+practical+developer+tools" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=850&color=F5A5D7&center=true&vCenter=true&repeat=true&width=780&height=46&lines=under+the+moon%2C+building+the+next+thing...;%E2%9C%A6+Python+%7C+C+%7C+Streamlit+%7C+Ollama+%7C+Git+%E2%9C%A6;first-year+CSE+student+%E2%80%94+learning+in+public" alt="Animated profile introduction" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Computer%20Science-1F6FEB?style=for-the-badge" alt="Computer Science focus" />
-  <img src="https://img.shields.io/badge/Direction-AI%20Engineering-58A6FF?style=for-the-badge" alt="AI engineering direction" />
-  <img src="https://img.shields.io/badge/Currently%20Building-ASTRA%20%F0%9F%9A%A7-7C3AED?style=for-the-badge" alt="Currently building ASTRA" />
+  <img src="https://img.shields.io/badge/✦_Focus-Computer%20Science-1d2a52?style=for-the-badge&labelColor=131936&color=596cff" alt="Computer Science focus" />
+  <img src="https://img.shields.io/badge/🌸_Currently_Building-ASTRA-1d2a52?style=for-the-badge&labelColor=131936&color=ca6dba" alt="Currently building ASTRA" />
+  <img src="https://img.shields.io/badge/☾_Direction-AI%20Engineering-1d2a52?style=for-the-badge&labelColor=131936&color=6aa6ff" alt="AI engineering direction" />
 </p>
 
-## 👋 About me
+<br />
 
-I’m **Rakshith Nanduri**, a first-year Computer Science student from India.
+## 🌸 The person behind the screen
 
-I learn best by turning concepts into working software: safe Python utilities, local-AI applications with Streamlit and Ollama, and C programs that strengthen my foundations in data handling, algorithms, and problem solving.
+> **Rakshith Nanduri** — first-year Computer Science student from India, building steadily toward AI engineering.
 
-> Working toward AI engineering by understanding how useful applications are built — one project, bug, and improvement at a time.
+I turn unfamiliar concepts into working projects: safe Python utilities, local-AI applications with Streamlit and Ollama, and C programs that sharpen my foundation in logic, data handling, and problem solving.
 
-## 🚀 Featured builds
+<p align="center"><i>Small commits. Real projects. A little more clarity every day.</i></p>
+
+## ✦ The constellation
+
+| Project | What it explores | Status |
+|:--|:--|:--|
+| [CleanDesk](https://github.com/RakshithNanduri/CleanDesk) | Preview-first file automation in Python | ✦ Complete |
+| [Project ATLAS](https://github.com/RakshithNanduri/project-atlas) | Reading and explaining Python codebases with local AI | ✦ Complete |
+| [AI Study Companion](https://github.com/RakshithNanduri/First-Ai-study-app) | Local study support with Streamlit and Ollama | ✦ Complete |
+| [ASTRA](https://github.com/RakshithNanduri/Project-Astra) | Local-first companion architecture for Windows | 🌸 In progress |
 
 <p align="center">
-  <a href="https://github.com/RakshithNanduri/CleanDesk"><img width="48%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=RakshithNanduri&repo=CleanDesk&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="CleanDesk project card" /></a>
-  <a href="https://github.com/RakshithNanduri/project-atlas"><img width="48%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=RakshithNanduri&repo=project-atlas&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Project ATLAS project card" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/RakshithNanduri/First-Ai-study-app"><img width="48%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=RakshithNanduri&repo=First-Ai-study-app&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="AI Study Companion project card" /></a>
-  <a href="https://github.com/RakshithNanduri/Project-Astra"><img width="48%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=RakshithNanduri&repo=Project-Astra&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Project ASTRA project card" /></a>
+  <a href="https://github.com/RakshithNanduri?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_the_full_portfolio-131936?style=for-the-badge&logo=github&logoColor=white&labelColor=ca6dba" alt="Explore the full portfolio" />
+  </a>
 </p>
 
-## 🧰 Working with
+## ☾ Tools in my night sky
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-1d2a52?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/C-1d2a52?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Streamlit-1d2a52?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Ollama-1d2a52?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Git-1d2a52?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rakshith-nanduri-5b000841b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rakshith-nanduri-5b000841b/">
+    <img src="https://img.shields.io/badge/Find_me_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
-<p align="center"><i>Building steadily. Learning openly. Improving with every project.</i></p>
-
-<p align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=120&section=footer" alt="Footer wave" /></p>
+<p align="center"><sub>Built with curiosity beneath a sakura sky. 🌙</sub></p>
