@@ -4,54 +4,37 @@
 
 # Rakshith Nanduri
 
-**Computer Science student at Sreenidhi University | Python, C, local AI applications | Building toward AI engineering**
+**First-year Computer Science student at Sreenidhi University · C, Python, local AI applications · Building toward AI engineering**
 
-I am a first-year Computer Science student working on programming fundamentals, software engineering, and practical AI applications. My current projects cover local LLM workflows with Python and Ollama, filesystem automation, and command-line programs in C using file handling, searching, sorting, and dynamic memory.
+I learn best when I have something real to build. Right now I’m working on programming fundamentals, C/DSA, and small software projects I can actually explain instead of trying to rush into advanced AI work too early.
 
-I use projects to test what I understand, document what still needs work, and build a stronger foundation before moving into formal machine learning and larger AI systems.
+I also like experimenting with local models through Ollama. That has given me practical experience building AI-powered applications, but I’m still before the formal machine-learning, deep-learning, and model-training parts of the path.
 
-[Portfolio](https://rakshith-nanduri-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rakshith-nanduri-5b000841b/) · [GitHub](https://github.com/RakshithNanduri)
+[Portfolio](https://rakshith-nanduri-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rakshith-nanduri-5b000841b/)
 
-## Selected projects
+## Projects
 
-| Project | Description | Main technologies |
+| Project | What it does | Built with |
 |---|---|---|
-| [AI Study Companion](https://github.com/RakshithNanduri/First-Ai-study-app) | Local AI study assistant with chat history, uploaded study material, PDF/text context, and Ollama-based inference | Python, Streamlit, Ollama, Pandas, PyPDF |
-| [Project ATLAS](https://github.com/RakshithNanduri/project-atlas) | Local Python codebase reader that scans projects and explains selected files through Ollama | Python, Streamlit, Ollama, pathlib, pytest |
-| [StockLite](https://github.com/RakshithNanduri/c-inventory-management-system) | Command-line inventory system with C structures, CRUD-style record operations, and text-file persistence | C, structures, file I/O |
-| [DataAnalyzer-CLI](https://github.com/RakshithNanduri/DataAnalyzer-CLI) | Terminal data-analysis program with statistics, searching, Bubble Sort, file persistence, and dynamic memory | C, algorithms, `malloc`, `realloc`, file I/O |
-| [CleanDesk](https://github.com/RakshithNanduri/CleanDesk) | Preview-first file organizer with folder validation, category routing, duplicate protection, and execution reporting | Python, pathlib, shutil, GitHub Actions |
+| [AI Study Companion](https://github.com/RakshithNanduri/First-Ai-study-app) | Local study app with Ollama chat, selected PDF/text context, and saved conversations | Python, Streamlit, Ollama, Pandas, PyPDF |
+| [Project ATLAS](https://github.com/RakshithNanduri/project-atlas) | Reads local Python projects one file at a time and asks an Ollama model to explain selected code | Python, Streamlit, Ollama, pathlib, pytest |
+| [StockLite](https://github.com/RakshithNanduri/c-inventory-management-system) | C inventory manager with file-based storage, search, updates, deletion, and stock reports | C, structures, file I/O |
+| [DataAnalyzer-CLI](https://github.com/RakshithNanduri/DataAnalyzer-CLI) | Terminal program for statistics, searching, Bubble Sort, file persistence, and dynamic memory | C, algorithms, `malloc`, `realloc`, file I/O |
+| [CleanDesk](https://github.com/RakshithNanduri/CleanDesk) | Preview-first file organizer that sorts top-level files without overwriting duplicates | Python, pathlib, shutil, GitHub Actions |
 
-## Current technical foundation
+## What I’m focused on now
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/Ollama-111111?style=flat-square" alt="Ollama" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+**C and DSA**  
+I’m strengthening arrays, searching, sorting, dynamic memory, and the reasoning behind loop bounds instead of chasing a problem-count target.
 
-### Python
+**Python**  
+I have school-level foundations plus project experience with Streamlit, Ollama, file handling, PDF/text processing, `pathlib`, and `shutil`.
 
-School-level Python foundations with project experience in Streamlit, Ollama, file handling, PDF/text processing, `pathlib`, and `shutil`.
+**AI applications**  
+I’ve built small local-AI tools around Ollama. Formal ML, deep learning, model training, and ML systems are later stages of the path rather than skills I claim today.
 
-### C
+## Where I’m heading
 
-Beginner practical experience with functions, arrays, structures, file I/O, searching, Bubble Sort, Binary Search, and dynamic memory. I am continuing to work on independent implementation and algorithm recall.
+My long-term goal is AI engineering, but I don’t want to skip the computer-science foundation underneath it. University coursework, stronger implementation skills, mathematics, DSA, and gradually more independent projects come first.
 
-### AI application development
-
-Experience building small local-AI applications around Ollama. Formal machine learning, deep learning, model training, and ML systems are future stages of my learning plan.
-
-## Current direction
-
-My long-term goal is AI engineering. Right now I am prioritizing the foundations that make that direction realistic: programming, mathematics, data structures and algorithms, computer-science coursework, software engineering habits, and projects I can explain clearly.
-
-The repositories on this profile are learning projects. Several were built with AI-assisted guidance and debugging, so I describe them by what they actually do rather than treating completion as proof of independent mastery.
-
-## Contact
-
-- Portfolio: https://rakshith-nanduri-portfolio.vercel.app
-- LinkedIn: https://www.linkedin.com/in/rakshith-nanduri-5b000841b/
-- GitHub: https://github.com/RakshithNanduri
+These repositories are learning projects. Several involved AI-assisted explanation, debugging, or implementation support. I keep that context visible because a finished repository is useful evidence of practice, not automatic proof that I independently mastered every part.
