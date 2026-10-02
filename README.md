@@ -10,7 +10,11 @@ I learn best when I have something real to build. Right now I’m working on pro
 
 I also like experimenting with local models through Ollama. That has given me practical experience building AI-powered applications, but I’m still before the formal machine-learning, deep-learning, and model-training parts of the path.
 
-[Portfolio](https://rakshith-nanduri-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rakshith-nanduri-5b000841b/)
+[Portfolio](https://rakshith-nanduri-portfolio.vercel.app) · [LinkedIn](https://www.linkedin.com/in/rakshithnanduri/)
+
+## Recent coursework
+
+Completed **AI Tools & Claude Workshop** with **be10x** on **1 October 2026**. The certificate is included in my [portfolio certificate archive](https://rakshith-nanduri-portfolio.vercel.app/#certificates).
 
 ## Projects
 
